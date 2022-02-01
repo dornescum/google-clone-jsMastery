@@ -1,3 +1,8 @@
+This is just an exercise
+
+https://www.youtube.com/watch?v=NDbruK1fzG8&t=287s
+Build and Deploy Google Search 2.0 with React & Tailwind CSS (simple!)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
